@@ -3,9 +3,6 @@ Ice-Strike C2界面设计分享
 
 Like Water | Like Diamond
 
-## Detail
-golang编写的多平台C2
-
 ## UI
 
 ### Sessions:
