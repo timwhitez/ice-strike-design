@@ -27,6 +27,14 @@ Like Water | Like Diamond
 ![5_File Browser02](https://user-images.githubusercontent.com/36320909/123520304-aa1e5680-d6e2-11eb-87dd-a30af0ad922b.png)
 
 
+### Host
+
+![7_Host01_状态 1](https://user-images.githubusercontent.com/36320909/123538696-b3ea9d00-d768-11eb-8831-61e122f5aa4f.png)
+
+![8_Host02_状态 1](https://user-images.githubusercontent.com/36320909/123538698-b51bca00-d768-11eb-9c39-699240df9e9d.png)
+
+
+
 ### System Info
 
 ![6_System Info](https://user-images.githubusercontent.com/36320909/123520307-abe81a00-d6e2-11eb-8dde-860ae29b81fa.png)
